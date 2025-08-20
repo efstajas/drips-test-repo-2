@@ -11,6 +11,9 @@
     },
     "optimism": {
       "ownedBy": "0x462b2Fb1e19073C9751bAb861AF6F9a42E006041"
+    },
+    "localtestnet": {
+      "ownedBy": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
     }
   }
 }
